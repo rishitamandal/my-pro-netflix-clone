@@ -4,9 +4,13 @@ Hey! I finally finished this Netflix clone (took me more time than I expected ðŸ
 
 First use the <b>Firebase App</b> api key of your's as the project's api keys has been removed and you can add them in /lib/firebase.prod.js file and <b>tmdb</b> api key also needs to be changed, which is present in request.js file under the project directory.
 
-<img src="/images/demo1.png">
+![demo1](https://user-images.githubusercontent.com/92074430/198705521-d45a2d83-1acf-4eec-ac80-6eda9127d9b7.png)
 
-<img src="/images/demo2.png">
+![demo2](https://user-images.githubusercontent.com/92074430/198705565-f438144e-3f57-477c-abef-bbee8359bb23.png)
+
+With Youtube Trailers Embeded!
+
+![demo3](https://user-images.githubusercontent.com/92074430/198705700-b27d74f4-ed9b-4afc-bf7f-bd3b99e4b2ca.png)
 
 
 # Getting Started with Create React App
