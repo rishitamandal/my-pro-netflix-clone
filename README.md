@@ -8,10 +8,6 @@ First use the <b>Firebase App</b> api key of your's as the project's api keys ha
 
 <img src="/images/demo2.png">
 
-With Youtube Trailers Embeded
-
-<img src="/images/demo3.png">
-
 
 # Getting Started with Create React App
 
